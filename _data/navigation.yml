@@ -1,12 +1,35 @@
 # main links
 main:
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+  - title: Research
+    url: /research/research_lines/
+  - title: Contributions
+    url: /contributions/publications/
+  - title: Teaching
+    url: /teaching/
+  - title: Outreach
+    url: /outreach/
+  - title: CV
+    url: /cv/
+  - title: Gallery
+    url: /gallery/
+
+contributions:
+  - title: "Publications"
+    url: /contributions/publications/
+  - title: "Book chapters"
+    url: /contributions/book_chapters/
+  - title: "Scientific reports"
+    url: /contributions/reports/
+  - title: "Conferences"
+    url: /contributions/conferences/
+  - title: "PhD Thesis"
+    url: /contributions/phd_thesis/
+
+research:
+  - title: "Research lines"
+    url: /research/research_lines/
+  - title: "Projects"
+    url: /research/projects/
+  - title: "Monitoring programs"
+    url: /research/monitoring/
+
