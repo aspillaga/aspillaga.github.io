@@ -5,7 +5,7 @@ classes: wide
 permalink: /contributions/book_chapters/
 header:
   overlay_color: "#000"
-  overlay_filter: "0.3"
+  overlay_filter: "0"
   overlay_image: /assets/images/elements/head_contrib.jpg
 sidebar:
   - image: /assets/images/elements/side_up.jpg

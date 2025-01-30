@@ -5,7 +5,7 @@ classes: wide
 permalink: /gallery/
 header:
   overlay_color: "#000"
-  overlay_filter: "0.3"
+  overlay_filter: "0"
   overlay_image: /assets/images/elements/head_gallery.jpg
 
 fish:

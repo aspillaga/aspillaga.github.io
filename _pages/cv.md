@@ -5,7 +5,7 @@ classes: wide
 permalink: /cv/
 header:
   overlay_color: "#000"
-  overlay_filter: "0.3"
+  overlay_filter: "0"
   overlay_image: /assets/images/elements/head_cv.jpg
 author_profile: true
 breadcrumbs: true
