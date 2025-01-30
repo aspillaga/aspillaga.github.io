@@ -35,7 +35,7 @@ author_profile: true
 | ------- | ------- |
 <span style="color:#7c7c7c"> 2023 </span> | Leibniz Institute of Freshwater Ecology and Inland Fisheries (IGB), Berlin (Germany), 6 months.
 <span style="color:#7c7c7c"> 2019 </span> | CEFREM - Université de Perpignan, Perpignan (France), 1.3 months.
-<span style="color:#7c7c7c"> 2017 </span> | Max Planck Instutute of Animal Behavior, Radolfzell (Germany), 3 months.
+<span style="color:#7c7c7c"> 2017 </span> | Max Planck Institute of Animal Behavior, Radolfzell (Germany), 3 months.
 
 ### Funding
 
@@ -52,7 +52,7 @@ author_profile: true
 ### Awards
 
 | ------- | ------- |
-<span style="color:#7c7c7c"> 2011 </span> | Best Academic record. MSc in Marine Sciences, Universtat de Barcelona.
+<span style="color:#7c7c7c"> 2011 </span> | Best academic record. MSc in Marine Sciences, Universtat de Barcelona.
 <span style="color:#7c7c7c"> 2010 </span> | Best academic record. BSc in Biology, Euskal Herriko Universitatea.
 
 
