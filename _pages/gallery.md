@@ -100,10 +100,9 @@ tracking:
 
 
 ## Fish
-
 {% include gallery id="fish"%}
 
-## invertebrates
+## Invertebrates
 {% include gallery id="invertebrates"%}
 
 ## Acoustic tracking
