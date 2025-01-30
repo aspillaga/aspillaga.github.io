@@ -45,7 +45,8 @@ I am a marine ecologist fascinated by coastal ecosystem and the behaviour of fis
 
 
 <div style="text-align:center;">
-<h5> Links of interest: </h5>
+<h5> Links of interest: </h5><br />
+
 <a href="https://imedea.uib-csic.es/en/"><img src="/assets/images/logo_imedea.jpg"  style="height:80px;margin-right:40px;margin-left:0px;"></a>
 
 <a href="https://trackingfish.com/"><img src="/assets/images/logo_btn.jpg" style="height:150px;margin-right:40px;margin-left:40px"></a>
