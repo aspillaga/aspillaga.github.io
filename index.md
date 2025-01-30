@@ -30,11 +30,11 @@ feature_row:
 
 ---
 
-<span>
 ![](/assets/images/intro_eneko.jpg){:width="450px" .align-left}
+<br />
+<br />
 I am a marine ecologist fascinated by coastal ecosystem and the behaviour of fish in their natural habitats. My research explores how fish interact with each other, respond to enviromental changes, and are affected by human activities. I also study how marine protected areas contribute to conservation and the sustainable use of ocean resources. Currently, I am a Vicenç Mut postdoctoral researcher at the Mediterranean Institute of Advanced Studies (IMEDEA-CSIC) in Mallorca, Balearic Islands.
 <br />
-
 <br />
 <hr />
 
@@ -43,14 +43,12 @@ I am a marine ecologist fascinated by coastal ecosystem and the behaviour of fis
 
 <br />
 
-
 <div style="text-align:center;">
-<h5> Links of interest: </h5>
+  <h5> Links of interest: </h5>
 
-<a href="https://imedea.uib-csic.es/en/"><img src="/assets/images/logo_imedea.jpg"  style="height:80px;margin-right:40px;margin-left:0px;margin-top:20px;margin-bottom:20px"></a>
+  <a href="https://imedea.uib-csic.es/en/"><img src="/assets/images/logo_imedea.jpg"  style="height:80px;margin-right:40px;margin-left:0px;margin-top:20px;margin-bottom:20px"></a>
 
-<a href="https://trackingfish.com/"><img src="/assets/images/logo_btn.jpg" style="height:150px;margin-right:40px;margin-left:40px;margin-top:20px;margin-bottom:20px"></a>
+  <a href="https://trackingfish.com/"><img src="/assets/images/logo_btn.jpg" style="height:150px;margin-right:40px;margin-left:40px;margin-top:20px;margin-bottom:20px"></a>
 
-<a href="https://europeantrackingnetwork.org/"><img src="/assets/images/logo_etn.png" style="height:150px;margin-right:40px;margin-left:40px;margin-top:20px;margin-bottom:20px"></a>
-
+  <a href="https://europeantrackingnetwork.org/"><img src="/assets/images/logo_etn.png" style="height:150px;margin-right:40px;margin-left:40px;margin-top:20px;margin-bottom:20px"></a>
 </div>

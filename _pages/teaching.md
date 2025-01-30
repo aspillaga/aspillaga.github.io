@@ -30,13 +30,15 @@ author_profile: true
   <li><b>Lidia Muñoz Sanchez, 2019</b>. MSc in Marine Ecology, Universitat de les Illes Balears (UIB). <span style='color:#036972'>Swimming behaviour of gilthead seabream, <i>Sparus aurata</i>, in experimental sea-cages and the influence of environmental enrichment. </span> <span style='color:#868686'>Supervisors: E. Aspillaga & P. Arechavala (IMEDEA-CSIC).</span></li>
 </ol>
 
-## Trainning schools
+## Specialized trainning schools
 <ol reversed>
-  <li><b><span style='color:#000000'>Introduction to acoustic telemetry for tracking fish</span>, (2h course)</b>. <i>Mallorca Science School: Interdisciplinary Science for Marine and Coastal Conservation in a Changing World</i>. Palma (Spain), October 26-27 2024. <a href='https://github.com/aspillaga/MASS2024_ACOUSTIC-TRACKING'>Link to slides and materials in GitHub.</a></li>
-  <li><b><span style='color:#000000'>Managing acoustic telemetry data</span>, (2h course)</b>. <i>ETN COST Action Trainning School: General introduction to aquatic animal tracking</i>. Olsztyn (Poland), May 29-June 1 2023. <a href='https://github.com/aspillaga/ETN2023_AT-DATA-MANAGEMENT'>Link to slides and materials in GitHub.</a> </li>
- <li><b><span style='color:#000000'>Social Network Analysis from positioned telemetry data </span>, (2h course)</b>. <i>ETN COST Action Trainning School: Calculating positions in acoustic telemetry</i>. České Budějovice (Czech Republic), May 18-22 2022. <a href='https://github.com/aspillaga/ETN2022_SOCIAL-NETWORK-ANALYSIS'>Link to slides and materials in GitHub.</a> <a href='https://youtu.be/QVf-xrpazKs?si=9art1FgTtQU7hNvj'>Link to the lecture in YouTube.</a></li>
- 
+  <li><b><span style='color:#000000'>Introduction to acoustic telemetry for tracking fish</span> (2h course)</b>. <i>Mallorca Science School: Interdisciplinary Science for Marine and Coastal Conservation in a Changing World</i>. Palma (Spain), October 26-27 2024. <a href='https://github.com/aspillaga/MASS2024_ACOUSTIC-TRACKING'>Link to slides and materials in GitHub.</a></li>
+  <li><b><span style='color:#000000'>Managing acoustic telemetry data</span> (2h course)</b>. <i>ETN COST Action Trainning School: General introduction to aquatic animal tracking</i>. Olsztyn (Poland), May 29-June 1 2023. <a href='https://github.com/aspillaga/ETN2023_AT-DATA-MANAGEMENT'>Link to slides and materials in GitHub.</a> </li>
+  <li><b><span style='color:#000000'>Social Network Analysis from positioned telemetry data</span> (2h course)</b>. <i>ETN COST Action Trainning School: Calculating positions in acoustic telemetry</i>. České Budějovice (Czech Republic), May 18-22 2022. <a href='https://github.com/aspillaga/ETN2022_SOCIAL-NETWORK-ANALYSIS'>Link to slides and materials in GitHub.</a> <a href='https://youtu.be/QVf-xrpazKs?si=9art1FgTtQU7hNvj'>Link to the lecture in YouTube.</a></li>
+  <li><b><span style='color:#000000'>Kostako basabizitzaren ikerketan eta kudeaketan. Ikastaro praktiokoa inter-marealean </span>, (24h course)</b>. <i>Udako Euskal Univberstitatea (UEU)</i>. Getaria (Gipuzkoa), July 22-24 2016 (In Basque). <a href='https://www.ueu.eus/jarduera-akademikoa/934-kostako-basa-bizitzaren-ikerketan-ikastaro-praktikoa-inter-marealean'>Link to course information.</a></li>
 </ol>
+
+
 
 
 

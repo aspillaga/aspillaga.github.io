@@ -1,5 +1,5 @@
 ---
-title: "Curriculum vitae"
+title: "Curriculum Vitae"
 layout: single
 classes: wide
 permalink: /cv/
