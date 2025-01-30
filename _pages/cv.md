@@ -8,7 +8,6 @@ header:
   overlay_filter: "0"
   overlay_image: /assets/images/elements/head_cv.jpg
 author_profile: true
-breadcrumbs: true
 ---
 
 
