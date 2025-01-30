@@ -10,4 +10,35 @@ header:
 author_profile: true
 ---
 
-Under construction.
+## MSc student mentoring
+
+<ol reversed>
+  <li><b>Camila Vidal Campins, 2024</b>. International Master of Science in Marine Biological Resources (IMBRSea), European Marine Biological Resource Centre (EMBRC).<span style='color:#036972'> Modelling movement trajectories to infer behavioural states and variation in the undulate skate, <i>Raja undulata</i>.</span> <span style='color:#868686'>Supervisors: D. Villegas-Rios (IIM-CSIC) & E. Aspillaga (IMEDEA-CSIC).</span></li>
+  
+  <li><b>Aurelio Abellán Miñana, 2024</b>. MSc in Marine Ecology, Universitat de les Illes Balears (UIB). <span style='color:#036972'>Influence of environmental variables on activity patterns of the Dusky Grouper (<i>Epinephelus marginatus</i>) assessed through a novel acoustic telemetry approach.</span> <span style='color:#868686'>Supervisors: E. Aspillaga & J. Alós (IMEDEA-CSIC).</span></li>
+  
+  <li><b>Daniel García García, 2022</b>. MSc in Oceanography and Marine Environmental Management, Universitat de Barcelona (UB). <span style='color:#036972'>Movement ecology and connectivity of sea bass (<i>Dicentrarchus labrax</i>) in a network of marine reserves: Implications for its conservation and sustainable fishing.</span> <span style='color:#868686'>Supervisors: E. Aspillaga (IMEDEA-CSIC) & J.L. Riera (UB).</span></li>
+  
+  <li><b>Jordi Abad Platas, 2022</b>. MSc in Marine Biology, Biodiversity and Conservation, Universidad de la Laguna (ULL). <span style='color:#036972'>Linking the space use variability of a wild fish population and environmental conditions using high-resolution acoustic telemetry.</span> <span style='color:#868686'>Supervisors: E. Aspillaga & J. Alós (IMEDEA-CSIC).</span></li>
+  
+  <li><b>Jaume Capó Vives, 2021</b>. MSc in Neurosciences, Universitat de les Illes Balears (UIB). <span style='color:#036972'>Effect of social interactions on the chronotypes of a marine fish.</span> <span style='color:#868686'>Supervisors: E. Aspillaga & J. Alós (IMEDEA-CSIC).</span></li>
+  
+  <li><b>David Casals Blanch, 2021</b>. MSc in Oceanography and Marine Environmental Management, Universitat de Barcelona (UB). <span style='color:#036972'>Movement patterns and spawning behaviour of the dusky grouper, <i>Epinephelus marginatus</i>, in two Mediterranean MPAs and their implications for managemen.</span> <span style='color:#868686'>Supervisors: E. Aspillaga (IMEDEA-CSIC) & B. Hereu (UB).</span></li>
+  
+  <li><b>Ainara Monsalve Massana, 2021</b>. MSc in Marine Ecology, Universitat de les Illes Balears (UIB). <span style='color:#036972'>Comparison between aquatic high-throughput tracking technologies, post-processing methods and species’ behaviour.</span> <span style='color:#868686'>Supervisors: E. Aspillaga & J. Alós (IMEDEA-CSIC).</span></li>
+  
+  <li><b>Lidia Muñoz Sanchez, 2019</b>. MSc in Marine Ecology, Universitat de les Illes Balears (UIB). <span style='color:#036972'>Swimming behaviour of gilthead seabream, <i>Sparus aurata</i>, in experimental sea-cages and the influence of environmental enrichment. </span> <span style='color:#868686'>Supervisors: E. Aspillaga & P. Arechavala (IMEDEA-CSIC).</span></li>
+</ol>
+
+## Trainning schools
+<ol reversed>
+  <li><b><span style='color:#000000'>Introduction to acoustic telemetry for tracking fish</span>, (2h course)</b>. <i>Mallorca Science School: Interdisciplinary Science for Marine and Coastal Conservation in a Changing World</i>. Palma (Spain), October 26-27 2024. <a href='https://github.com/aspillaga/MASS2024_ACOUSTIC-TRACKING'>Link to slides and materials in GitHub.</a></li>
+  <li><b><span style='color:#000000'>Managing acoustic telemetry data</span>, (2h course)</b>. <i>ETN COST Action Trainning School: General introduction to aquatic animal tracking</i>. Olsztyn (Poland), May 29-June 1 2023. <a href='https://github.com/aspillaga/ETN2023_AT-DATA-MANAGEMENT'>Link to slides and materials in GitHub.</a> </li>
+ <li><b><span style='color:#000000'>Social Network Analysis from positioned telemetry data </span>, (2h course)</b>. <i>ETN COST Action Trainning School: Calculating positions in acoustic telemetry</i>. České Budějovice (Czech Republic), May 18-22 2022. <a href='https://github.com/aspillaga/ETN2022_SOCIAL-NETWORK-ANALYSIS'>Link to slides and materials in GitHub.</a> <a href='https://youtu.be/QVf-xrpazKs?si=9art1FgTtQU7hNvj'>Link to the lecture in YouTube.</a></li>
+ 
+</ol>
+
+
+
+
+
