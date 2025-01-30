@@ -79,7 +79,6 @@ invertebrates:
     image_path: assets/images/gallery/invert002.jpg
     alt: "llagosta"
     title: "Spiny lobster <i>Palinurus elephas</i> in Cap de Creus marine reserve (Catalonia)."
-  - url: assets/images/gallery/DSC_6845_20180925_141258.jpg
 
 tracking:
   - url: assets/images/gallery/track001.jpg

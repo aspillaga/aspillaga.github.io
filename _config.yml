@@ -21,10 +21,10 @@ title                    : "Eneko Aspillaga"
 title_separator          : "-"
 subtitle                 : #"Postdoctoral researcher"
 name                     : "Eneko Aspillaga"
-description              : "Personal website."
+description              : "Personal website"
 url                      : "https://aspillaga.github.io" # the base hostname & protocol for your site
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : aspillaga/aspillaga.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : /assets/images/elements/title_logo.png
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
@@ -39,8 +39,7 @@ comments:
     shortname            : # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
-  facebook:
-    # https://developers.facebook.com/docs/plugins/comments
+  facebook: # https://developers.facebook.com/docs/plugins/comments
     appid                :
     num_posts            : # 5 (default)
     colorscheme          : # "light" (default), "dark"
@@ -132,7 +131,6 @@ author:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/aspillaga"
 
-
 # Site Footer
 footer:
   links:
@@ -181,8 +179,6 @@ exclude:
   - Rakefile
   - README
   - tmp
-  - /docs # ignore Minimal Mistakes /docs
-  - /test # ignore Minimal Mistakes /test
 keep_files:
   - .git
   - .svn
