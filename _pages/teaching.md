@@ -32,14 +32,37 @@ author_profile: true
 
 ## Specialized trainning schools
 <ol reversed>
-  <li><b><span style='color:#000000'>Introduction to acoustic telemetry for tracking fish</span> (2h course)</b>. <i>Mallorca Science School: Interdisciplinary Science for Marine and Coastal Conservation in a Changing World</i>. Palma (Spain), October 26-27 2024. <a href='https://github.com/aspillaga/MASS2024_ACOUSTIC-TRACKING'>Link to slides and materials in GitHub.</a></li>
-  <li><b><span style='color:#000000'>Managing acoustic telemetry data</span> (2h course)</b>. <i>ETN COST Action Trainning School: General introduction to aquatic animal tracking</i>. Olsztyn (Poland), May 29-June 1 2023. <a href='https://github.com/aspillaga/ETN2023_AT-DATA-MANAGEMENT'>Link to slides and materials in GitHub.</a> </li>
-  <li><b><span style='color:#000000'>Social Network Analysis from positioned telemetry data</span> (2h course)</b>. <i>ETN COST Action Trainning School: Calculating positions in acoustic telemetry</i>. České Budějovice (Czech Republic), May 18-22 2022. <a href='https://github.com/aspillaga/ETN2022_SOCIAL-NETWORK-ANALYSIS'>Link to slides and materials in GitHub.</a> <a href='https://youtu.be/QVf-xrpazKs?si=9art1FgTtQU7hNvj'>Link to the lecture in YouTube.</a></li>
-  <li><b><span style='color:#000000'>Kostako basabizitzaren ikerketan eta kudeaketan. Ikastaro praktiokoa inter-marealean</span>, (24h course)</b>. <i>Udako Euskal Uniberstitatea (UEU)</i>. Getaria (Gipuzkoa), July 22-24 2016 (In Basque). <a href='https://www.ueu.eus/jarduera-akademikoa/934-kostako-basa-bizitzaren-ikerketan-ikastaro-praktikoa-inter-marealean'>Link to course information.</a></li>
+  <li><b><span style='color:#036972'>Introduction to acoustic telemetry for tracking fish</span> (2h course)</b>. <i>Mallorca Science School (MASS 2024): Interdisciplinary Science for Marine and Coastal Conservation in a Changing World</i>. Organizer: Mediterranean Institute for Advanced Studies (IMEDEA-CSIC). Palma (Spain), October 26-27 2024. <a href='https://github.com/aspillaga/MASS2024_ACOUSTIC-TRACKING'>Link to slides and materials in GitHub.</a></li>
+
+  <li><b><span style='color:#036972'>Managing acoustic telemetry data</span> (2h course)</b>. <i>ETN COST Action Trainning School: Aquatic Telemetry Basics</i>. Organizer: Inland Fisheries Institute. Olsztyn (Poland), May 29-June 1 2023. <a href='https://github.com/aspillaga/ETN2023_AT-DATA-MANAGEMENT'>Link to slides and materials in GitHub.</a> </li>
+
+  <li><b><span style='color:#036972'>Social Network Analysis from positioned telemetry data</span> (2h course)</b>. <i>ETN COST Action Trainning School: Calculating positions in acoustic telemetry</i>. Organizer: Biology Centre, Czech Academy of Sciences. České Budějovice (Czech Republic), May 18-22 2022. <a href='https://github.com/aspillaga/ETN2022_SOCIAL-NETWORK-ANALYSIS'>Link to slides and materials in GitHub.</a> <a href='https://youtu.be/QVf-xrpazKs?si=9art1FgTtQU7hNvj'>Link to the lecture in YouTube.</a></li>
+
+  <li><b><span style='color:#036972'>Kostako basabizitzaren ikerketan eta kudeaketan. Ikastaro praktiokoa inter-marealean</span> (24h course)</b>. Organizer: Udako Euskal Uniberstitatea (UEU). Getaria (Gipuzkoa), July 22-24 2016 (In Basque). <a href='https://www.ueu.eus/jarduera-akademikoa/934-kostako-basa-bizitzaren-ikerketan-ikastaro-praktikoa-inter-marealean'>Link to course information.</a></li>
+</ol>
+
+## University teaching
+<ol reversed>
+  <li><b><span style='color:#036972'>Scientific diving techniques for benthic ecosystem studies</span></b>. <i>MSc in Marine Sciences</i>, Universitat de Barcelona. Period: 2011-2018 (7 years).</li>
+
+  <li><b><span style='color:#036972'>Marine Ecology</span></b>. <i>BSc in Biology</i>, Universitat de Barcelona. Period: 2016-2017 (1 year).</li>
+
+  <li><b><span style='color:#036972'>Marine reserves</span></b>. <i>MSc in Marine Sciences</i>, Universitat de Barcelona. Period: 2016-2017 (1 year).</li>
+
+  <li><b><span style='color:#036972'>Management of protected areas</span></b>. <i>BSc in Environmental Sciences</i>, Universitat de Barcelona. Period: 2012-2016 (4 years).</li>
 </ol>
 
 
+## Lectures
+<ol reversed>
+  <li><b><span style='color:#036972'>Impacts of fishing and marine protected areas</span></b>. <i>Ecology of fishery resources in the Mediterranean Sea</i>, Universitat Oberta per a Majors - Universitat de les Illes Balears. 2h lecture, January 31 2024.</li>
+   
+  <li><b><span style='color:#036972'>Marine conservation: Impacts of fishing, marine protected areas, and movement ecology of fishes</span></b>. <i>Marine Biology</i>, Universitat de Vic. 2h lecture, November 11 2018.</li>
+  
+  <li><b><span style='color:#036972'>Marine conservation: Impacts of fishing, marine protected areas, and movement ecology of fishes</span></b>. <i>Marine Biology</i>, Universitat de Vic. 2h lecture, December 14 2017.</li>
+   
 
+</ol>
 
 
 
