@@ -24,7 +24,7 @@ name                     : "Eneko Aspillaga"
 description              : "Personal website"
 url                      : "https://aspillaga.github.io" # the base hostname & protocol for your site
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : aspillaga/aspillaga.github.io"
+repository               : "aspillaga/aspillaga.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : /assets/images/elements/title_logo.png
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
@@ -81,7 +81,7 @@ google:
   search_engine_id       : # YOUR_SEARCH_ENGINE_ID
   instant_search         : # false (default), true
 # SEO Related
-google_site_verification :
+google_site_verification : "google-site-verification=U5DvzK0Ny98MyxjHNBXShP-JMX5nSyxBvBkIh--fFD8"
 bing_site_verification   :
 naver_site_verification  :
 yandex_site_verification :
