@@ -11,16 +11,16 @@ excerpt: >
 feature_row:
   - image_path: /assets/images/elements/intro_left_up.jpg
     alt: "movement_ecology"
-    title: "Movement ecology"
-    excerpt: " "
+    title: <div style='color:#036972'>Movement ecology</div>
+    excerpt: "Movement is a fundamental aspect of life, shaping the survival, reproduction, and interactions of individuals. Understanding how fish move helps reveal their social dynamics, habitat use, and responses to environmental changes. My research explores these movement patterns to uncover how fish interact with each other and their surroundings, and how human activities and shifting environmental conditions influence their behavior."
   - image_path: /assets/images/elements/intro_center_up.jpg
     alt: "technology"
-    title: "Tracking techology"
-    excerpt: "<br /> "
+    title: <div style='color:#036972'>Tracking techology</div>
+    excerpt: "Advancements in bio-logging and telemetry have transformed our ability to study marine ecosystems. I apply state-of-the-art tracking technologies, from high-resolution movement sensors to large-scale acoustic arrays, to gain new insights into fish behavior. These methods generate vast datasets, requiring innovative analytical approaches. By combining advanced statistical and modeling techniques, I extract meaningful ecological patterns that inform conservation and management decisions."
   - image_path: /assets/images/elements/intro_right_up.jpg
     alt: "mpas"
-    title: "Marine Protected Areas"
-    excerpt: "<br /> "
+    title: <div style='color:#036972'>Marine Protected Areas</div>
+    excerpt: Marine Protected Areas (MPAs) play a key role in preserving biodiversity and mitigating human impacts on marine ecosystems. A significant part of my research focuses on understanding how MPAs support fish population recovery and enhance ecosystem resilience. Through long-term monitoring and targeted research projects, I study how fish communities respond to protection measures and how extreme events, such as marine heatwaves, affect benthic ecosystems."
   - image_path: /assets/images/elements/intro_left_down.jpg
     alt: "movement_ecology"
   - image_path: /assets/images/elements/intro_center_down.jpg
@@ -38,7 +38,7 @@ I am a marine ecologist fascinated by coastal ecosystem and the behaviour of fis
 <br />
 <hr />
 
-## Research:
+## Research
 {% include feature_row id="feature_row" %}
 
 <br />
