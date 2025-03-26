@@ -15,7 +15,7 @@ feature_row:
     excerpt: "Movement is a fundamental aspect of life, shaping the survival, reproduction, and interactions of individuals. Understanding how fish move helps reveal their social dynamics, habitat use, and responses to environmental changes. My research explores these movement patterns to uncover how fish interact with each other and their surroundings, and how human activities and shifting environmental conditions influence their behavior."
   - image_path: /assets/images/elements/intro_center_up.jpg
     alt: "technology"
-    title: <div style='color:#036972'>Tracking techology</div>
+    title: <div style='color:#036972'>Tracking technology</div>
     excerpt: "Advancements in bio-logging and telemetry have transformed our ability to study marine ecosystems. I apply state-of-the-art tracking technologies, from high-resolution movement sensors to large-scale acoustic arrays, to gain new insights into fish behavior. These methods generate vast datasets, requiring innovative analytical approaches. By combining advanced statistical and modeling techniques, I extract meaningful ecological patterns that inform conservation and management decisions."
   - image_path: /assets/images/elements/intro_right_up.jpg
     alt: "mpas"
