@@ -34,6 +34,8 @@ author_profile: true
 <ol reversed>
   <li><b><span style='color:#036972'>Introduction to acoustic telemetry for tracking fish</span> (2h course)</b>. <i>Mallorca Science School (MASS 2024): Interdisciplinary Science for Marine and Coastal Conservation in a Changing World</i>. Organizer: Mediterranean Institute for Advanced Studies (IMEDEA-CSIC). Palma (Spain), October 26-27 2024. <a href='https://github.com/aspillaga/MASS2024_ACOUSTIC-TRACKING'>Link to slides and materials in GitHub.</a></li>
 
+  <li><b><span style='color:#036972'>Marine ichthyofauna monitoring techniques. Underwater visual census of fish communities</span> (6h theoretical and practical course)</b>. <i>IMEDEA Scientific Diving Course</i>. Organizer: Mediterranean Institute for Advanced Studies (IMEDEA-CSIC). Esporles (Spain), April 14-19 2024.
+
   <li><b><span style='color:#036972'>Managing acoustic telemetry data</span> (2h course)</b>. <i>ETN COST Action Trainning School: Aquatic Telemetry Basics</i>. Organizer: Inland Fisheries Institute. Olsztyn (Poland), May 29-June 1 2023. <a href='https://github.com/aspillaga/ETN2023_AT-DATA-MANAGEMENT'>Link to slides and materials in GitHub.</a> </li>
 
   <li><b><span style='color:#036972'>Social Network Analysis from positioned telemetry data</span> (2h course)</b>. <i>ETN COST Action Trainning School: Calculating positions in acoustic telemetry</i>. Organizer: Biology Centre, Czech Academy of Sciences. České Budějovice (Czech Republic), May 18-22 2022. <a href='https://github.com/aspillaga/ETN2022_SOCIAL-NETWORK-ANALYSIS'>Link to slides and materials in GitHub.</a> <a href='https://youtu.be/QVf-xrpazKs?si=9art1FgTtQU7hNvj'>Link to the lecture in YouTube.</a></li>
@@ -59,9 +61,9 @@ author_profile: true
 
   <li><b><span style='color:#036972'>Impacts of fishing and marine protected areas</span></b>. <i>Ecology of fishery resources in the Mediterranean Sea</i>, Universitat Oberta per a Majors - Universitat de les Illes Balears. 2h lecture, January 31 2024.</li>
    
-  <li><b><span style='color:#036972'>Marine conservation: Impacts of fishing, marine protected areas, and movement ecology of fishes</span></b>. <i>Marine Biology</i>, BSc in Biology, Universitat de Vic. 2h lecture, November 11 2018.</li>
+  <li><b><span style='color:#036972'>Marine conservation: Impacts of fishing, marine protected areas, and movement ecology of fishes</span></b>. <i>Marine Biology, BSc in Biology</i>, Universitat de Vic. 2h lecture, November 11 2018.</li>
   
-  <li><b><span style='color:#036972'>Marine conservation: Impacts of fishing, marine protected areas, and movement ecology of fishes</span></b>. <i>Marine Biology</i>, BSc in Biology, Universitat de Vic. 2h lecture, December 14 2017.</li>
+  <li><b><span style='color:#036972'>Marine conservation: Impacts of fishing, marine protected areas, and movement ecology of fishes</span></b>. <i>Marine Biology, BSc in Biology</i>, Universitat de Vic. 2h lecture, December 14 2017.</li>
    
 
 </ol>
