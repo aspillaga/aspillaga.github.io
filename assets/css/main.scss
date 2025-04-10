@@ -7,3 +7,36 @@ search: false
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
+
+details.abstract-details {
+    display: inline;  /* This keeps <details> inline */
+}
+
+.abstract-details summary.abstract-button {
+    display: inline;
+    cursor: pointer;
+    color: #868686;
+    text-decoration: underline;
+    font-size: 100%;
+    margin-left: 5px;
+    padding: 2px 4px;
+    border-radius: 4px;
+    transition: background-color 0.2s, color 0.2s;
+}
+
+.abstract-details summary.abstract-button:hover {
+    background-color: #036972;
+    color: #fff;
+}
+
+.abstract-box {
+    margin-top: 5px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    padding: 8px;
+    background-color: #f9f9f9;
+    font-size: 80%;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.1);
+    transition: all 0.4s ease;
+    color:  #868686;
+}
