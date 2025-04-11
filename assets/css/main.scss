@@ -8,6 +8,20 @@ search: false
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 
+li.reference-item {
+    margin-bottom: 1.5em; /* Adjust the value for more/less space */
+}
+
+.authors {
+    color: #868686;
+}
+
+.title {
+    color: #036972;
+    font-weight: bold;
+}
+
+
 details.abstract-details {
     display: inline;  /* This keeps <details> inline */
 }
