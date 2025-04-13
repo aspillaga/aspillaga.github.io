@@ -16,27 +16,27 @@ author_profile: true
 ## Dissemination talks
 <ol reversed>
 
-  <li><b><span style='color:#036972'>Exploring fish movement and connectivity in the Marine Protected Areas of the Balearic Islands</span></b>. <i>Internal Cycle of Seminars IMEDEA</i>. Organized by IMEDEA (CSIC). Esporles (Mallorca), November 29, 2024. <a href='https://www.youtube.com/live/sOtXCu5dGII?si=j-Lz68wT6TdvCFma'>YouTube video.</a></li>
+  <li class='reference-item'><b><span style='color:#036972'>Exploring fish movement and connectivity in the Marine Protected Areas of the Balearic Islands</span></b>. <i>Internal Cycle of Seminars IMEDEA</i>. Organized by IMEDEA (CSIC). Esporles (Mallorca), November 29, 2024. <a href='https://www.youtube.com/live/sOtXCu5dGII?si=j-Lz68wT6TdvCFma'>YouTube video.</a></li>
 
-  <li><b><span style='color:#036972'>La biología del mero. Ciencia y conservación marina</span></b>. <i>III Jornades Sa Dragonera Blava</i>. Organized by Xarxa Dragonera Blava and Save the Med Foundation. Port d'Andratx (Mallorca), October 27—28, 2023.</li>
+  <li class='reference-item'><b><span style='color:#036972'>La biología del mero. Ciencia y conservación marina</span></b>. <i>III Jornades Sa Dragonera Blava</i>. Organized by Xarxa Dragonera Blava and Save the Med Foundation. Port d'Andratx (Mallorca), October 27—28, 2023.</li>
 
-  <li><b><span style='color:#036972'>Paseo científico a bordo del velero Rafael Verdera</span></b>. <i>Ocean Night (MSCA-2022-CITIZENS-01)</i>. Organized by IMEDEA (CSIC). Palma (Mallorca), October 9, 2022.</li>
+  <li class='reference-item'><b><span style='color:#036972'>Paseo científico a bordo del velero Rafael Verdera</span></b>. <i>Ocean Night (MSCA-2022-CITIZENS-01)</i>. Organized by IMEDEA (CSIC). Palma (Mallorca), October 9, 2022.</li>
 
-  <li><b><span style='color:#036972'>Seguimiento de las poblaciones de mero (<i>Epinephelus marginatus</i>) mediante fotoidentificación basada en inteligencia artificial, ciencia ciudadana y telemetría acústica</span></b>. <i>Mirades que sumen. Jornades de ciència ciutadana marina</i>, Organized by Observadores del Mar and Fundació Marilles. Es Mercadal (Menorca), October 7, 2022.</li>
+  <li class='reference-item'><b><span style='color:#036972'>Seguimiento de las poblaciones de mero (<i>Epinephelus marginatus</i>) mediante fotoidentificación basada en inteligencia artificial, ciencia ciudadana y telemetría acústica</span></b>. <i>Mirades que sumen. Jornades de ciència ciutadana marina</i>, Organized by Observadores del Mar and Fundació Marilles. Es Mercadal (Menorca), October 7, 2022.</li>
 
-  <li><b><span style='color:#036972'>Persiguiendo a los peces</span></b>. <i>European Researchers' Night: La Noche de la Investigación</i>. Organized by IMEDEA (CSIC). Palma (Mallorca), September 30, 2022.</li>
+  <li class='reference-item'><b><span style='color:#036972'>Persiguiendo a los peces</span></b>. <i>European Researchers' Night: La Noche de la Investigación</i>. Organized by IMEDEA (CSIC). Palma (Mallorca), September 30, 2022.</li>
 
-   <li><b><span style='color:#036972'>Episodio 23: Calentamiento del océano</span></b>. <i>Podcast Observadores del Mar</i>. Radio Calvià. Calvià (Mallorca), October 5, 2022. <a href='https://go.ivoox.com/rf/93740777'>Link to iVoox.</a></li>
+   <li class='reference-item'><b><span style='color:#036972'>Episodio 23: Calentamiento del océano</span></b>. <i>Podcast Observadores del Mar</i>. Radio Calvià. Calvià (Mallorca), October 5, 2022. <a href='https://go.ivoox.com/rf/93740777'>Link to iVoox.</a></li>
 
-  <li><b><span style='color:#036972'>Com protegir el nostre patrimoni ambiental en un entorn globalitzat</span></b>. <i>XLVII Curs Eivissenc de Cultura: Espècies invasores: Canvis i impactes en el medi natural pitiús</i>. Organized by the Institut d'Estudis Eivissencs. Eivissa, November 25, 2021. <a href='https://www.youtube.com/live/S3jKtaMOISo?si=jYSMenuARz7rW5Yb'>YouTube video.</a></li>
+  <li class='reference-item'><b><span style='color:#036972'>Com protegir el nostre patrimoni ambiental en un entorn globalitzat</span></b>. <i>XLVII Curs Eivissenc de Cultura: Espècies invasores: Canvis i impactes en el medi natural pitiús</i>. Organized by the Institut d'Estudis Eivissencs. Eivissa, November 25, 2021. <a href='https://www.youtube.com/live/S3jKtaMOISo?si=jYSMenuARz7rW5Yb'>YouTube video.</a></li>
 
-  <li><b><span style='color:#036972'>High-frequency Tracking in Marine Environments using 416 kHz JSATS & UMAP</span></b>. <i>Lotek Telemetry Talks</i>. Lotek Wireless Inc. (Canada). Online, January 12, 2021.</li>
+  <li class='reference-item'><b><span style='color:#036972'>High-frequency Tracking in Marine Environments using 416 kHz JSATS & UMAP</span></b>. <i>Lotek Telemetry Talks</i>. Lotek Wireless Inc. (Canada). Online, January 12, 2021.</li>
 
-  <li><b><span style='color:#036972'>Ecologia del moviment de peixos a les àrees marines protegides del litoral català</span></b>. <i>Seminaris CEAB</i>. Organized by CEAB (CSIC). Blanes, May 3, 2018.</li>
+  <li class='reference-item'><b><span style='color:#036972'>Ecologia del moviment de peixos a les àrees marines protegides del litoral català</span></b>. <i>Seminaris CEAB</i>. Organized by CEAB (CSIC). Blanes, May 3, 2018.</li>
 
-  <li><b><span style='color:#036972'>Conservació marina: l'estudi de l'ecologia del moviment de peixos litorals</span></b>. <i>Tronades Cientifico-Naturalistes</i>. Organized by Agrupació Científico-Excursionista de Mataró. Mataró, November 15, 2017.</li>
+  <li class='reference-item'><b><span style='color:#036972'>Conservació marina: l'estudi de l'ecologia del moviment de peixos litorals</span></b>. <i>Tronades Cientifico-Naturalistes</i>. Organized by Agrupació Científico-Excursionista de Mataró. Mataró, November 15, 2017.</li>
 
-  <li><b><span style='color:#036972'>Fish movements and other conservation issues in the Mediterranean Sea</span></b>. <i>Max Planck Institute for Ornithology Seminars</i>. Organized by Max-Planck Institute for Ornithology. Radolfzell (Germany), February 23, 2016.</li>
+  <li class='reference-item'><b><span style='color:#036972'>Fish movements and other conservation issues in the Mediterranean Sea</span></b>. <i>Max Planck Institute for Ornithology Seminars</i>. Organized by Max-Planck Institute for Ornithology. Radolfzell (Germany), February 23, 2016.</li>
 
 </ol>
 
