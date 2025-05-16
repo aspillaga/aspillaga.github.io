@@ -32,9 +32,12 @@ author_profile: true
 
 ## Specialized trainning schools
 <ol reversed>
+
+  <li class='reference-item'><b><span style='color:#036972'>Marine ichthyofauna monitoring techniques. Underwater visual census of fish communities</span> (6h theoretical and practical course)</b>. <i>IMEDEA Scientific Diving Course 2025</i>. Organizer: Mediterranean Institute for Advanced Studies (IMEDEA-CSIC). Esporles (Spain), May 5-9 2025.</li>
+
   <li class='reference-item'><b><span style='color:#036972'>Introduction to acoustic telemetry for tracking fish</span> (2h course)</b>. <i>Mallorca Science School (MASS 2024): Interdisciplinary Science for Marine and Coastal Conservation in a Changing World</i>. Organizer: Mediterranean Institute for Advanced Studies (IMEDEA-CSIC). Palma (Spain), October 26-27 2024. <a href='https://github.com/aspillaga/MASS2024_ACOUSTIC-TRACKING'>Link to slides and materials on GitHub.</a></li>
 
-  <li class='reference-item'><b><span style='color:#036972'>Marine ichthyofauna monitoring techniques. Underwater visual census of fish communities</span> (6h theoretical and practical course)</b>. <i>IMEDEA Scientific Diving Course</i>. Organizer: Mediterranean Institute for Advanced Studies (IMEDEA-CSIC). Esporles (Spain), April 14-19 2024.</li>
+  <li class='reference-item'><b><span style='color:#036972'>Marine ichthyofauna monitoring techniques. Underwater visual census of fish communities</span> (6h theoretical and practical course)</b>. <i>IMEDEA Scientific Diving Course 2024</i>. Organizer: Mediterranean Institute for Advanced Studies (IMEDEA-CSIC). Esporles (Spain), April 14-19 2024.</li>
 
   <li class='reference-item'><b><span style='color:#036972'>Managing acoustic telemetry data</span> (2h course)</b>. <i>ETN COST Action Training School: Aquatic Telemetry Basics</i>. Organizer: Inland Fisheries Institute. Olsztyn (Poland), May 29-June 1 2023. <a href='https://github.com/aspillaga/ETN2023_AT-DATA-MANAGEMENT'>Link to slides and materials on GitHub.</a> </li>
 
