@@ -40,6 +40,7 @@ author_profile: true
 ### Funding
 
 | ------- | ------- |
+<span style="color:#7c7c7c"> 2025 </span> | Ajudes per a projectes de recerca, Càtedra de la Mar Iberostar Foundation (1 year, 12.000 €).
 <span style="color:#7c7c7c"> 2023 </span> | Projectes de Biodiversitat PRTR/NextGenEU, Govern de les Illes Balears (2 years, 114.400 €).
 <span style="color:#7c7c7c"> 2023 </span> | Estancias de movilidad José Castillejo, Ministerio de Ciencia, Innovación y Universidades, Spain (3 months, 9.700 €).
 <span style="color:#7c7c7c"> 2023 </span> | Short-Term Scientific Mission Grant, COST Action - EU (3 months, 4.000 €).
@@ -59,15 +60,21 @@ author_profile: true
 ### Certificates
 
 | ------- | ------- |
-<span style="color:#7c7c7c"> 2024 </span> | R3 Certificate for established researchers, Ministerio de Ciencia, Innovación y Universidades, Spain.
-<span style="color:#7c7c7c"> 2023 </span> | Professor Lector, Agència per a la Qualitat del Sistema Universitari de Catalunya (AQU).
+<span style="color:#7c7c7c"> 2024 </span> |R3 Certificate for established researchers, Ministerio de Ciencia, Innovación y Universidades, Spain.
+<span style="color:#7c7c7c"> 2023 </span> |Professor Lector, Agència per a la Qualitat del Sistema Universitari de Catalunya (AQU).
 
 
 ### Other merits
 
 | ------- | ------- |
 <span style="color:#7c7c7c"> 2023 </span> | Scientific Diver Accreditation, Govern de les Illes Balears.
-<span style="color:#7c7c7c"> 2006 </span> | PADI Open Water Scuba Instructor |
-
-
+<span style="color:#7c7c7c"> 2018 </span> | PADI Ice Diver Instructor
+<span style="color:#7c7c7c"> 2018 </span> | Certificat d’Aptitude à l’Hyperbarie - Classe I, Mention B (Scientific Diver), Institut National de Plongée Professionnelle et d'Intervention en Milieu Aquatique et Hyperbare, République Française.
+<span style="color:#7c7c7c"> 2014 </span> | PADI Emergency Oxygen Provider Instructor.
+<span style="color:#7c7c7c"> 2014 </span> | Emergency First Response (EFR) Instructor (Primary/Secondary Care).
+<span style="color:#7c7c7c"> 2013 </span> | PADI Master Scuba Dive Trainer.
+<span style="color:#7c7c7c"> 2010 </span> | Diving Instructor (Bussejador Instructor), Departament d'Agricultura, Alimentació i Acció Rural, Generalitat de Catalunya.
+<span style="color:#7c7c7c"> 2007 </span> | Leisure Boat Sailing Master (PER), Gobierno Vasco-Eusko Jaurlaritza.
+<span style="color:#7c7c7c"> 2006 </span> | PADI Enriched Air (Nitrox) Instructor.
+<span style="color:#7c7c7c"> 2006 </span> | PADI Open Water Scuba Instructor.
 
