@@ -19,7 +19,7 @@ sidebar:
 
 <ol reversed>
     <h2 align=right>2024</h2>
-    <li class='reference-item'><span class='authors'>Hereu B., Rovira G., Sanmartí N., Hayes L., Martí B., <b>Aspillaga E.</b>, Romero J., Pérez M., Linares C.</span> (2024). <span class='title'>Seguiment del medi marí al Parc Natural de Cap de Creus i al Parc Natural del Montgrí, les Illes Medes i el Baix Ter. Memòria 2024. </span>Departament de Territori, Habitatge i Transició Ecològica. Direcció General de Polítiques Ambientals i Medi Natural.  Generalitat de Catalunya. 254 pp.</li>
+    <li class='reference-item'><span class='authors'>Hereu B., Rovira G., Sanmartí N., Hayes L., Martí B., <b>Aspillaga E.</b>, Romero J., Pérez M., Linares C.</span> (2024). <span class='title'>Seguiment del medi marí al Parc Natural de Cap de Creus i al Parc Natural del Montgrí, les Illes Medes i el Baix Ter. Memòria 2024. </span>Departament de Territori, Habitatge i Transició Ecològica. Direcció General de Polítiques Ambientals i Medi Natural.  Generalitat de Catalunya. 254 pp. <a href='https://www.seguimentmari.cat/informe-cap-de-creus-montgri-illes-medes-baix-ter-2024.pdf.'>URL</a></li>
     <h2 align=right>2023</h2>
     <li class='reference-item'><span class='authors'>Hereu B., Altimir M., Argullós I., <b>Aspillaga E.</b></span> (2023). <span class='title'>Caracterització de les  comunitats de peixos vulnerables a la pesca del litoral del Baix Empordà. </span>Departament d’Agricultura, Ramaderia, Pesca i Alimentació. Direcció General de Pesca i Afers Marítims. Generalitat de Catalunya. 66 pp. <a href='https://www.cogestiobaixemporda.org/qu%C3%A8-hem-fet/recursos-i-informes-cient%C3%ADfics/.'>URL</a></li>
     <h2 align=right>2022</h2>
@@ -50,3 +50,4 @@ sidebar:
     <li class='reference-item'><span class='authors'>Linares C., Navarro L., <b>Aspillaga E.</b>, Kersting D., Hereu B., Teixidó N., Vidal M., Ballesteros E., Cebrián E., Garrabou J., Díaz D., Amblás D., Canals M.</span> (2012). <span class='title'>Caracterización de las comunidades profundas dominadas por especies longevas (<i>Paramuricea clavata</i>, algas fucales y laminariales) en la Reseva Marina de las Islas Columbretes y su entorno. Informe final área LIFE+ INDEMARES (LIFE07/NAT/E/000732). </span>Fundación Biodiversidad. 134 pp. <a href='http://hdl.handle.net/2445/120286.'>URL</a></li>
     <li class='reference-item'><span class='authors'>Hereu B., Linares C., Díaz D., Riera J.L., Rodríguez A., Navarro L., <b>Aspillaga E.</b>, Canals M., Amblàs D.</span> (2012). <span class='title'>Cartografia de les praderies de <i>Cymodocea nodosa</i> al golf de Pals. </span>Diputació de Girona. 10 pp. <a href='http://hdl.handle.net/2445/22583.'>URL</a></li>
 </ol>
+
