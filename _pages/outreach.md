@@ -16,6 +16,8 @@ author_profile: true
 ## Dissemination talks
 <ol reversed>
 
+  <li class='reference-item'><b><span style='color:#036972'>La conectividad de las Reservas Marinas del mar Balear</span></b>. <i>II Jornades de Biodiversitat Marina</i>. Organized by Marilles Foundation. Palma (Mallorca), October 16, 2025. <a href='https://www.youtube.com/live/sH3r0vl6yeU?si=qg4vzwxobW-tEuE2&t=11493'>YouTube video.</a></li>
+
   <li class='reference-item'><b><span style='color:#036972'>Exploring fish movement and connectivity in the Marine Protected Areas of the Balearic Islands</span></b>. <i>Internal Cycle of Seminars IMEDEA</i>. Organized by IMEDEA (CSIC). Esporles (Mallorca), November 29, 2024. <a href='https://www.youtube.com/live/sOtXCu5dGII?si=j-Lz68wT6TdvCFma'>YouTube video.</a></li>
 
   <li class='reference-item'><b><span style='color:#036972'>La biología del mero. Ciencia y conservación marina</span></b>. <i>III Jornades Sa Dragonera Blava</i>. Organized by Xarxa Dragonera Blava and Save the Med Foundation. Port d'Andratx (Mallorca), October 27—28, 2023.</li>
@@ -44,6 +46,12 @@ author_profile: true
 ## In the news
 
 <ul>
+    <li><a href='https://ib3alacarta.com/play/radio/nautilus/e20251005030001'>Nautilus (Radio show).</a> <span style='color:#868686'>IB3 Ràdio. Oct 05, 2025.</span></li>
+    <li><a href='https://www.elsoller.cat/balears/2025/09/24/349910/investigadors-imedea-revelen-importancia-les-reserves-marines-les-balears-per-protegir-connectar-les-poblacions-peixos.html'>Investigadors de l’IMEDEA revelen la importància de les reserves marines de les Balears per a protegir i connectar les poblacions de peixos.</a> <span style='color:#868686'>Setmanari Sóller. Sep 24, 2025.</span></li>
+    <li><a href='https://www.arabalears.cat/societat/estudi-pioner-balears-revela-reserves-marines-connectades-protegeixen-millor-peixos_1_5507414.html'>Un estudi pioner a les Balears revela que les reserves marines connectades protegeixen millor els peixos.</a> <span style='color:#868686'>Ara Balears. Sep 24, 2025.</span></li>
+    <li><a href='https://www.ultimahora.es/noticias/local/2025/09/24/2476799/imedea-revela-importancia-reservas-marinas-para-proteger-poblaciones-peces.html'>El IMEDEA revela la importancia de las Reservas Marinas para proteger las poblaciones de peces.</a> <span style='color:#868686'>Ultima Hora. Sep 24, 2025.</span></li>
+    <li><a href='https://www.diariodemallorca.es/mallorca/2025/09/24/estudio-imedea-revela-importancia-reservas-121910660.html'>Un estudio del IMEDEA revela la importancia de las reservas marinas para proteger y conectar las poblaciones de peces.</a> <span style='color:#868686'>Diario de Mallorca. Sep 24, 2025.</span></li>
+    <li><a href='https://www.diariodeibiza.es/medio-ambiente/2025/05/25/estudio-confirma-areas-marinas-protegidas-99873630.html'>Confirmado: las áreas marinas protegidas aumentan la variedad y abundancia de peces.</a> <span style='color:#868686'>Diario de Ibiza. May 25, 2025.</span></li>
     <li><a href='https://ib3alacarta.com/radio/nautilus/e20240518120401'>Nautilus (Radio show).</a> <span style='color:#868686'>IB3 Ràdio. May 18, 2024.</span></li>
     <li><a href='https://radiocalviafm.com/los-efectos-del-cambio-climatico-en-el-mar/'>Los efectos del cambio climático en el mar.</a> <span style='color:#868686'>Radio Calviá. Oct 05, 2022.</span></li>
     <li><a href='https://www.diariodemallorca.es/mallorca/2022/09/04/alta-mortalidad-posidonia-calor-aprieta-74997653.html'>Alta mortalidad de la posidonia cuando el calor aprieta en el mar.</a> <span style='color:#868686'>Diario de Mallorca. Sep 04, 2022.</span></li>
