@@ -14,7 +14,8 @@ author_profile: true
 ### Work experience
 
 | ------- | ------- |
-<span style="color:#7c7c7c"> 2022–present </span> | Postdoctoral researcher (*Vicenç Mut* Fellow), IMEDEA (CSIC-UIB), Balearic Islands |
+<span style="color:#7c7c7c"> 2025-present </span> | Postdoctoral researcher (*UIB Postdoc Talent* Fellow), IMEDEA (CSIC-UIB), Balearic Islands |
+<span style="color:#7c7c7c"> 2022–2025 </span> | Postdoctoral researcher (*Vicenç Mut* Fellow), IMEDEA (CSIC-UIB), Balearic Islands |
 <span style="color:#7c7c7c"> 2021–2022 </span> | Research assistant, IMEDEA (CSIC-UIB), Balearic Islands |
 <span style="color:#7c7c7c"> 2019–2021 </span> |   Postdoctoral researcher (*Margalida Comas* Fellow), IMEDEA (CSIC-UIB), Balearic Islands |
 <span style="color:#7c7c7c"> 2019 </span> |         Postdoctoral researcher. CEFREM - Université de Perpignan, Perpignan (France) |
@@ -40,6 +41,7 @@ author_profile: true
 ### Funding
 
 | ------- | ------- |
+<span style="color:#7c7c7c"> 2025 </span> | Programa d'impuls a la recerca liderada per joves doctors - POSTDOC TALENT, Universitat de les Illes Balears (2 years).
 <span style="color:#7c7c7c"> 2025 </span> | Ajudes per a projectes de recerca, Càtedra de la Mar Iberostar Foundation (1 year, 12.000 €).
 <span style="color:#7c7c7c"> 2023 </span> | Projectes de Biodiversitat PRTR/NextGenEU, Govern de les Illes Balears (2 years, 114.400 €).
 <span style="color:#7c7c7c"> 2023 </span> | Estancias de movilidad José Castillejo, Ministerio de Ciencia, Innovación y Universidades, Spain (3 months, 9.700 €).
