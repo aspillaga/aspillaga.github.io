@@ -12,15 +12,15 @@ feature_row:
   - image_path: /assets/images/elements/intro_left_up.jpg
     alt: "movement_ecology"
     title: <div style='color:#036972'>Movement ecology</div>
-    excerpt: Movement is a fundamental aspect of life, shaping the survival, reproduction, and interactions of individuals. Understanding how fish move helps reveal their social dynamics, habitat use, and responses to environmental changes. My research explores these movement patterns to uncover how fish interact with each other and their surroundings, and how human activities and shifting environmental conditions influence their behavior.
+    excerpt: Movement is a fundamental process of life, with profound implications for the structure of populations and communities. I investigate the movement behaviour of coastal fish species to characterise key biological traits, including social structure, activity rhythms, and space- and habitat-use patterns. My work aims to provide a mechanistic understanding of how fish respond to environmental drivers and anthropogenic pressures.
   - image_path: /assets/images/elements/intro_center_up.jpg
     alt: "technology"
-    title: <div style='color:#036972'>Tracking technology</div>
-    excerpt: Advancements in bio-logging and telemetry have transformed our ability to study marine ecosystems. I apply state-of-the-art tracking technologies, from high-resolution systems to large-scale acoustic arrays, to gain new insights into fish behavior. These methods generate vast datasets, requiring innovative analytical approaches. By combining advanced statistical and modeling techniques, I extract meaningful ecological patterns that inform conservation and management decisions.
+    title: <div style='color:#036972'>Tracking technologies</div>
+    excerpt: My research relies on emerging tracking technologies that allow the study of free-ranging fish in their natural environment. I use acoustic telemetry systems ranging from fine-scale positioning arrays to large-scale monitoring networks. I combine these tools with statistical and modelling approaches to interpret the large volumes of data they generate and to make robust inferences about previously unobserved behavioural patterns across temporal and spatial scales.
   - image_path: /assets/images/elements/intro_right_up.jpg
     alt: "mpas"
     title: <div style='color:#036972'>Marine Protected Areas</div>
-    excerpt: Marine Protected Areas (MPAs) play a key role in preserving biodiversity and mitigating human impacts on marine ecosystems. A significant part of my research focuses on understanding how MPAs support fish population recovery and enhance ecosystem resilience. Through long-term monitoring and targeted research projects, I study how fish communities respond to protection measures and how extreme events, such as marine heatwaves, affect benthic ecosystems.
+    excerpt: Marine protected areas (MPAs) are effective management tools to mitigate human impacts on marine ecosystems. Through long-term monitoring programmes, I examine how MPAs promote the recovery of exploited populations and enhance ecosystem resilience. I also assess how MPAs respond to emerging threats, including extreme events such as marine heatwaves, to understand better their role in sustaining biodiversity and ecosystem functioning in a climate change scenario.
   - image_path: /assets/images/elements/intro_left_down.jpg
     alt: "movement_ecology"
   - image_path: /assets/images/elements/intro_center_down.jpg
@@ -33,7 +33,7 @@ feature_row:
 ![](/assets/images/intro_eneko.jpg){:width="450px" .align-left}
 <br />
 <br />
-I am a marine ecologist fascinated by coastal ecosystem and the behaviour of fish in their natural habitats. My research explores how fish interact with each other, respond to enviromental changes, and are affected by human activities. I also study how marine protected areas contribute to conservation and the sustainable use of ocean resources. Currently, I am a Vicenç Mut postdoctoral researcher at the Mediterranean Institute of Advanced Studies (IMEDEA-CSIC) in Mallorca, Balearic Islands.
+I am a biologist fascinated by marine ecosystems in general, and by fish in particular. My research focuses on fish behaviour, using emerging tracking technologies to study how they move, interact, and respond to environmental change and human pressures. I also investigate the role of marine protected areas in biodiversity conservation and the sustainable use of marine resources. I am a postdoctoral researcher at the Mediterranean Institute of Advanced Studies (IMEDEA, CSIC-UIB) in Mallorca, Balearic Islands.
 <br />
 <br />
 <hr />
