@@ -10,24 +10,37 @@ header:
 author_profile: true
 ---
 
+## PhD thesis supervision
+
+<ul reversed>
+  <li class='reference-item'><b>Skye Markris Brown, 2025-present</b>. <span style='color:#036972'>Integrating Acoustic Telemetry and Genetic Connectivity for MPA Management: Coastal Marine Predators in a Transboundary Marine Protected Network.</span> PhD in Ecology, Environmental Sciences and Plant Physiology, Universitat de Barcelona (UB). <span style='color:#868686'>Supervisors: B. Hereu (UB), R. Pérez-Portela (UB) & E. Aspillaga (IMEDEA-CSIC).</span></li>
+
+  <li class='reference-item'><b>Jordi Abad Platas, 2025-present</b>. <span style='color:#036972'>Evaluating the impact of Marine Protected Areas on the conservation of the biodiversity of rays (Chondrichthyes) in the Balearic Islands using acoustic telemetry.</span> PhD in Marine Ecology, Universitat de les Illes Balears (UIB). <span style='color:#868686'>Supervisors: J. Alós & E. Aspillaga (IMEDEA-CSIC).</span></li>
+</ul>
+
+
 ## MSc student mentoring
 
 <ol reversed>
-  <li class='reference-item'><b>Camila Vidal Campins, 2024</b>. International Master of Science in Marine Biological Resources (IMBRSea), European Marine Biological Resource Centre (EMBRC).<span style='color:#036972'> Modelling movement trajectories to infer behavioural states and variation in the undulate skate, <i>Raja undulata</i>.</span> <span style='color:#868686'>Supervisors: D. Villegas-Rios (IIM-CSIC) & E. Aspillaga (IMEDEA-CSIC).</span></li>
+  <li class='reference-item'><b>Meritxell Vilella Aguilella, 2026 (ongoing)</b>. <span style='color:#036972'>Movement and connectivity patterns of commercially important fish in the Marine Reserve Network of the Balearic Islands (provisional title). </span>MSc in Oceanography and Marine Environmental Management, Universitat de Barcelona (UB). <span style='color:#868686'>Supervisor: E. Aspillaga (IMEDEA-CSIC).</span></li>
+
+  <li class='reference-item'><b>Lucía de la Fuente Casilda, 2026</b>. <span style='color:#036972'>Spatial ecology of <i>Seriola dumerili</i> (Risso, 1810) along the coasts of Catalonia and southern France using acoustic telemetry: implications for management. </span>MSc in Oceanography and Marine Environmental Management, Universitat de Barcelona (UB). <span style='color:#868686'>Supervisors: B. Hereu (UB) & E. Aspillaga (IMEDEA-CSIC).</span></li>
+
+  <li class='reference-item'><b>Camila Vidal Campins, 2024</b>. <span style='color:#036972'> Modelling movement trajectories to infer behavioural states and variation in the undulate skate, <i>Raja undulata</i>.</span> International Master of Science in Marine Biological Resources (IMBRSea), European Marine Biological Resource Centre (EMBRC). <span style='color:#868686'>Supervisors: D. Villegas-Rios (IIM-CSIC) & E. Aspillaga (IMEDEA-CSIC).</span></li>
   
-  <li class='reference-item'><b>Aurelio Abellán Miñana, 2024</b>. MSc in Marine Ecology, Universitat de les Illes Balears (UIB). <span style='color:#036972'>Influence of environmental variables on activity patterns of the Dusky Grouper (<i>Epinephelus marginatus</i>) assessed through a novel acoustic telemetry approach.</span> <span style='color:#868686'>Supervisors: E. Aspillaga & J. Alós (IMEDEA-CSIC).</span></li>
+  <li class='reference-item'><b>Aurelio Abellán Miñana, 2024</b>. <a href='http://hdl.handle.net/11201/171157'>Influence of environmental variables on activity patterns of the Dusky Grouper (<i>Epinephelus marginatus</i>) assessed through a novel acoustic telemetry approach.</a> MSc in Marine Ecology, Universitat de les Illes Balears (UIB). <span style='color:#868686'>Supervisors: E. Aspillaga & J. Alós (IMEDEA-CSIC).</span></li>
   
-  <li class='reference-item'><b>Daniel García García, 2022</b>. MSc in Oceanography and Marine Environmental Management, Universitat de Barcelona (UB). <span style='color:#036972'>Movement ecology and connectivity of sea bass (<i>Dicentrarchus labrax</i>) in a network of marine reserves: Implications for its conservation and sustainable fishing.</span> <span style='color:#868686'>Supervisors: E. Aspillaga (IMEDEA-CSIC) & J.L. Riera (UB).</span></li>
+  <li class='reference-item'><b>Daniel García García, 2022</b>. <span style='color:#036972'>Movement ecology and connectivity of sea bass (<i>Dicentrarchus labrax</i>) in a network of marine reserves: Implications for its conservation and sustainable fishing.</span> MSc in Oceanography and Marine Environmental Management, Universitat de Barcelona (UB). <span style='color:#868686'>Supervisors: E. Aspillaga (IMEDEA-CSIC) & J.L. Riera (UB).</span></li>
   
-  <li class='reference-item'><b>Jordi Abad Platas, 2022</b>. MSc in Marine Biology, Biodiversity and Conservation, Universidad de la Laguna (ULL). <span style='color:#036972'>Linking the space use variability of a wild fish population and environmental conditions using high-resolution acoustic telemetry.</span> <span style='color:#868686'>Supervisors: E. Aspillaga & J. Alós (IMEDEA-CSIC).</span></li>
+  <li class='reference-item'><b>Jordi Abad Platas, 2022</b>. <span style='color:#036972'>Linking the space use variability of a wild fish population and environmental conditions using high-resolution acoustic telemetry.</span> MSc in Marine Biology, Biodiversity and Conservation, Universidad de la Laguna (ULL). <span style='color:#868686'>Supervisors: E. Aspillaga & J. Alós (IMEDEA-CSIC).</span></li>
   
-  <li class='reference-item'><b>Jaume Capó Vives, 2021</b>. MSc in Neurosciences, Universitat de les Illes Balears (UIB). <span style='color:#036972'>Effect of social interactions on the chronotypes of a marine fish.</span> <span style='color:#868686'>Supervisors: E. Aspillaga & J. Alós (IMEDEA-CSIC).</span></li>
+  <li class='reference-item'><b>Jaume Capó Vives, 2021</b>. <a href='http://hdl.handle.net/11201/158187'>Effect of social interactions on the chronotypes of a marine fish.</a> MSc in Neurosciences, Universitat de les Illes Balears (UIB). <span style='color:#868686'>Supervisors: E. Aspillaga & J. Alós (IMEDEA-CSIC).</span></li>
   
-  <li class='reference-item'><b>David Casals Blanch, 2021</b>. MSc in Oceanography and Marine Environmental Management, Universitat de Barcelona (UB). <span style='color:#036972'>Movement patterns and spawning behaviour of the dusky grouper, <i>Epinephelus marginatus</i>, in two Mediterranean MPAs and their implications for managemen.</span> <span style='color:#868686'>Supervisors: E. Aspillaga (IMEDEA-CSIC) & B. Hereu (UB).</span></li>
+  <li class='reference-item'><b>David Casals Blanch, 2021</b>. <span style='color:#036972'>Movement patterns and spawning behaviour of the dusky grouper, <i>Epinephelus marginatus</i>, in two Mediterranean MPAs and their implications for management.</span> MSc in Oceanography and Marine Environmental Management, Universitat de Barcelona (UB). <span style='color:#868686'>Supervisors: E. Aspillaga (IMEDEA-CSIC) & B. Hereu (UB).</span></li>
   
-  <li class='reference-item'><b>Ainara Monsalve Massana, 2021</b>. MSc in Marine Ecology, Universitat de les Illes Balears (UIB). <span style='color:#036972'>Comparison between aquatic high-throughput tracking technologies, post-processing methods and species’ behaviour.</span> <span style='color:#868686'>Supervisors: E. Aspillaga & J. Alós (IMEDEA-CSIC).</span></li>
+  <li class='reference-item'><b>Ainara Monsalve Massana, 2021</b>. <a href='http://hdl.handle.net/11201/158850'>Comparison between aquatic high-throughput tracking technologies, post-processing methods and species’ behaviour.</a> MSc in Marine Ecology, Universitat de les Illes Balears (UIB). <span style='color:#868686'>Supervisors: E. Aspillaga & J. Alós (IMEDEA-CSIC).</span></li>
   
-  <li class='reference-item'><b>Lidia Muñoz Sanchez, 2019</b>. MSc in Marine Ecology, Universitat de les Illes Balears (UIB). <span style='color:#036972'>Swimming behaviour of gilthead seabream, <i>Sparus aurata</i>, in experimental sea-cages and the influence of environmental enrichment. </span> <span style='color:#868686'>Supervisors: E. Aspillaga & P. Arechavala (IMEDEA-CSIC).</span></li>
+  <li class='reference-item'><b>Lidia Muñoz Sanchez, 2019</b>. <a href='http://hdl.handle.net/11201/155534'>Swimming behaviour of gilthead seabream, <i>Sparus aurata</i>, in experimental sea-cages and the influence of environmental enrichment.</a> MSc in Marine Ecology, Universitat de les Illes Balears (UIB). <span style='color:#868686'>Supervisors: E. Aspillaga & P. Arechavala (IMEDEA-CSIC).</span></li>
 </ol>
 
 ## Specialized trainning schools
