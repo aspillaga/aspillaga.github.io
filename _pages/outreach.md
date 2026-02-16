@@ -46,6 +46,7 @@ author_profile: true
 ## In the news
 
 <ul>
+    <li><a href='https://www.diariodemallorca.es/mallorca/2025/11/23/baleares-laboratorio-mar-red-escucha-124020848.html'>Baleares, el laboratorio del mar: la red que escucha a los peces.</a> <span style='color:#868686'>Diario de Mallorca. Nov 23, 2025.</span></li>
     <li><a href='https://ib3alacarta.com/play/radio/nautilus/e20251005030001'>Nautilus (Radio show).</a> <span style='color:#868686'>IB3 Ràdio. Oct 05, 2025.</span></li>
     <li><a href='https://www.elsoller.cat/balears/2025/09/24/349910/investigadors-imedea-revelen-importancia-les-reserves-marines-les-balears-per-protegir-connectar-les-poblacions-peixos.html'>Investigadors de l’IMEDEA revelen la importància de les reserves marines de les Balears per a protegir i connectar les poblacions de peixos.</a> <span style='color:#868686'>Setmanari Sóller. Sep 24, 2025.</span></li>
     <li><a href='https://www.arabalears.cat/societat/estudi-pioner-balears-revela-reserves-marines-connectades-protegeixen-millor-peixos_1_5507414.html'>Un estudi pioner a les Balears revela que les reserves marines connectades protegeixen millor els peixos.</a> <span style='color:#868686'>Ara Balears. Sep 24, 2025.</span></li>
