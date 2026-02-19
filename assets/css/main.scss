@@ -54,3 +54,53 @@ details.abstract-details {
     transition: all 0.4s ease;
     color:  #868686;
 }
+
+
+/* To add selected contributions in the 'research' section */
+
+.selected-contribution {
+  display: flex;
+  align-items: center;
+  gap: 1.5rem;
+  margin-bottom: 0.5rem;
+  margin-left: 1.5rem;
+  background-color: #f5f5f5;   /* gris suave */
+  padding: 0.8rem;
+  border-radius: 10px;
+}
+
+.selected-image {
+  width: 120px;
+  min-width: 120px;
+}
+
+.selected-image img {
+  width: 100%;
+  aspect-ratio: 1 / 1;
+  object-fit: cover;
+  border-radius: 8px;
+}
+
+.selected-text {
+  flex: 1;
+  font-size: 0.8em;
+  line-height: 1.4;
+}
+
+.selected-text .authors {
+  font-weight: 500;
+}
+
+.selected-text .title {
+  font-weight: 400;
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+  .selected-contribution {
+    flex-direction: row;
+  }
+  .selected-image {
+    width: 110px;
+  }
+}

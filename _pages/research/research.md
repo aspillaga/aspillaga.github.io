@@ -30,7 +30,53 @@ Acoustic telemetry involves equipping animals with miniaturised electronic trans
 It is an exciting and rapidly evolving field. For instance, through the <a href='https://europeantrackingnetwork.org/'>European Tracking Network</a>, we have contributed to the implementation of Open Protocols for acoustic tracking, which solve long-standing compatibility issues among manufacturers. This innovation enables interoperability among independent receiver arrays, fostering international collaboration and allowing movement studies at unprecedented spatial scales. More recently, we have developed a novel methodological framework to infer activity patterns from simple acoustic telemetry setups.
 
 <b>Selected contributions:</b>
-<li class='reference-item'><span class='authors'><b>Aspillaga E.</b>, Bruneel S., Alós J., Verhelst P., Abecasis D., Aarestrup K., Birnie-Gauvin K., Afonso P., Palmer M., Reubens J.</span> (2024). <span class='title'>Open Protocols, the new standard for acoustic tracking: results from interoperability and performance tests in European waters. </span><i>Animal Biotelemetry</i> 12:40. doi: <a href='https://doi.org/10.1186/s40317-024-00396-9'>10.1186/s40317-024-00396-9</a>.</li>
+
+<div class="selected-contribution">
+  <div class="selected-image">
+    <img src="/assets/images/research/aspillaga_2025.jpg" 
+         alt="Open Protocols paper">
+  </div>
+  <div class="selected-text">
+    <span class='authors'>
+      <b>Aspillaga E.</b>, Alós J., Catalán I.A., Moltó V., Abad-Platas J., Villegas-Ríos D.
+    </span> (2025). 
+    <span class='title'>
+      Inferring activity patterns of aquatic animals from single-receiver acoustic telemetry setups.
+    </span>
+    <i>Methods in Ecology and Evolution</i> 16(12):2931–2944. 
+    doi: 
+    <a href='https://doi.org/10.1111/2041-210x.70174'>
+      10.1111/2041-210x.70174
+    </a>.
+  </div>
+</div>
+
+
+<div class="selected-contribution">
+
+  <div class="selected-image">
+    <img src="/assets/images/research/aspillaga_2024.jpg" 
+         alt="Open Protocols paper">
+  </div>
+  <div class="selected-text">
+    <span class='authors'>
+      <b>Aspillaga E.</b>, Bruneel S., Alós J., Verhelst P., Abecasis D., 
+      Aarestrup K., Birnie-Gauvin K., Afonso P., Palmer M., Reubens J.
+    </span> (2024). 
+    <span class='title'>
+      Open Protocols, the new standard for acoustic tracking: results from interoperability and performance tests in European waters.
+    </span>
+    <i>Animal Biotelemetry</i> 12:40. 
+    doi: 
+    <a href='https://doi.org/10.1186/s40317-024-00396-9'>
+      10.1186/s40317-024-00396-9
+    </a>.
+  </div>
+</div>
+
+
+
+
 
 
 
