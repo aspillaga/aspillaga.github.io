@@ -31,32 +31,34 @@ It is an exciting and rapidly evolving field. For instance, through the <a href=
 
 <b>Selected contributions:</b>
 
+
+
 <div class="selected-contribution">
   <div class="selected-image">
-    <img src="/assets/images/research/aspillaga_2025.jpg" 
-         alt="Open Protocols paper">
+    <img src="/assets/images/research/matley_2022.jpg">
   </div>
   <div class="selected-text">
     <span class='authors'>
-      <b>Aspillaga E.</b>, Alós J., Catalán I.A., Moltó V., Abad-Platas J., Villegas-Ríos D.
-    </span> (2025). 
+      Matley J.K., Klinard N.V., Barbosa Martins A.P., Aarestrup K., <b>Aspillaga E.</b>, Cooke S.J., Cowley P.D., Heupel M.R., Lowe C.G., Lowerre-Barbieri S.K., Mitamura H., Moore J.S., Simpfendorfer C.A., Stokesbury M.J.W., Taylor M.D., Thorstad E.B., Vandergoot C.S., Fisk A.T.
+    </span> (2024). 
     <span class='title'>
-      Inferring activity patterns of aquatic animals from single-receiver acoustic telemetry setups.
+      Global trends in aquatic animal tracking with acoustic telemetry
     </span>
-    <i>Methods in Ecology and Evolution</i> 16(12):2931–2944. 
+    <i>Trends in Ecology & Evolution</i> 37(1):79–94. 
     doi: 
-    <a href='https://doi.org/10.1111/2041-210x.70174'>
-      10.1111/2041-210x.70174
+    <a href='https://doi.org/10.1016/j.tree.2021.09.001'>
+    10.1016/j.tree.2021.09.001
     </a>.
   </div>
 </div>
 
 
-<div class="selected-contribution">
 
+
+
+<div class="selected-contribution">
   <div class="selected-image">
-    <img src="/assets/images/research/aspillaga_2024.jpg" 
-         alt="Open Protocols paper">
+    <img src="/assets/images/research/aspillaga_2024.jpg">
   </div>
   <div class="selected-text">
     <span class='authors'>
@@ -73,6 +75,27 @@ It is an exciting and rapidly evolving field. For instance, through the <a href=
     </a>.
   </div>
 </div>
+
+
+<div class="selected-contribution">
+  <div class="selected-image">
+    <img src="/assets/images/research/aspillaga_2025.jpg">
+  </div>
+  <div class="selected-text">
+    <span class='authors'>
+      <b>Aspillaga E.</b>, Alós J., Catalán I.A., Moltó V., Abad-Platas J., Villegas-Ríos D.
+    </span> (2025). 
+    <span class='title'>
+      Inferring activity patterns of aquatic animals from single-receiver acoustic telemetry setups.
+    </span>
+    <i>Methods in Ecology and Evolution</i> 16(12):2931–2944. 
+    doi: 
+    <a href='https://doi.org/10.1111/2041-210x.70174'>
+      10.1111/2041-210x.70174
+    </a>.
+  </div>
+</div>
+
 
 
 
