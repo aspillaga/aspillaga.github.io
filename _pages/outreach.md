@@ -16,6 +16,10 @@ author_profile: true
 ## Dissemination talks
 <ol reversed>
 
+  <li class='reference-item'><b><span style='color:#036972'>Vivir en una reserva marina: lo que los peces hacen cuando no los vemos</span></b>. <i>Ciència a Tot Tren</i>. Universitat de les Illes Balears (UIB) & CSIC. Palma-Sóller (Mallorca), February 28, 2026. <a href='https://delegacion.illesbalears.csic.es/los-vagones-de-ciencia-a-tot-tren-se-llenaran-de-nuevo-de-cultura-cientifica/'>Press release.</a></li> 
+
+  <li class='reference-item'><b><span style='color:#036972'>Episodio 57: Peces, ¿qué sería lo normal?</span></b>. <i>Podcast Observadores del Mar</i>. Radio Calvià. Calvià (Mallorca), February 27, 2026. <a href='https://go.ivoox.com/rf/169635792'>Link to iVoox.</a></li> 
+
   <li class='reference-item'><b><span style='color:#036972'>La conectividad de las Reservas Marinas del mar Balear</span></b>. <i>II Jornades de Biodiversitat Marina</i>. Organized by Marilles Foundation. Palma (Mallorca), October 16, 2025. <a href='https://www.youtube.com/live/sH3r0vl6yeU?si=qg4vzwxobW-tEuE2&t=11493'>YouTube video.</a></li>
 
   <li class='reference-item'><b><span style='color:#036972'>Exploring fish movement and connectivity in the Marine Protected Areas of the Balearic Islands</span></b>. <i>Internal Cycle of Seminars IMEDEA</i>. Organized by IMEDEA (CSIC). Esporles (Mallorca), November 29, 2024. <a href='https://www.youtube.com/live/sOtXCu5dGII?si=j-Lz68wT6TdvCFma'>YouTube video.</a></li>
@@ -28,7 +32,7 @@ author_profile: true
 
   <li class='reference-item'><b><span style='color:#036972'>Persiguiendo a los peces</span></b>. <i>European Researchers' Night: La Noche de la Investigación</i>. Organized by IMEDEA (CSIC). Palma (Mallorca), September 30, 2022.</li>
 
-   <li class='reference-item'><b><span style='color:#036972'>Episodio 23: Calentamiento del océano</span></b>. <i>Podcast Observadores del Mar</i>. Radio Calvià. Calvià (Mallorca), October 5, 2022. <a href='https://go.ivoox.com/rf/93740777'>Link to iVoox.</a></li>
+  <li class='reference-item'><b><span style='color:#036972'>Episodio 23: Calentamiento del océano</span></b>. <i>Podcast Observadores del Mar</i>. Radio Calvià. Calvià (Mallorca), October 5, 2022. <a href='https://go.ivoox.com/rf/93740777'>Link to iVoox.</a></li>
 
   <li class='reference-item'><b><span style='color:#036972'>Com protegir el nostre patrimoni ambiental en un entorn globalitzat</span></b>. <i>XLVII Curs Eivissenc de Cultura: Espècies invasores: Canvis i impactes en el medi natural pitiús</i>. Organized by the Institut d'Estudis Eivissencs. Eivissa, November 25, 2021. <a href='https://www.youtube.com/live/S3jKtaMOISo?si=jYSMenuARz7rW5Yb'>YouTube video.</a></li>
 
