@@ -75,6 +75,8 @@ author_profile: true
 
 ## Lectures
 <ol reversed>
+  <li class='reference-item'><b><span style='color:#036972'>Ecology and conservation of predatory fish in temperate rocky reefs</span></b>. <i>Ecology and Conservation of Marine Apex Predators. MSc in Marine Ecology</i>, Universitat de les Illes Balears. 2h lecture, March 17 2026.</li>
+
   <li class='reference-item'><b><span style='color:#036972'>Ecology and conservation of predatory fish in temperate rocky reefs</span></b>. <i>Ecology and Conservation of Marine Apex Predators. MSc in Marine Ecology</i>, Universitat de les Illes Balears. 2h lecture, March 18 2025.</li>
 
   <li class='reference-item'><b><span style='color:#036972'>Impacts of fishing and marine protected areas</span></b>. <i>Ecology of fishery resources in the Mediterranean Sea</i>, Universitat Oberta per a Majors - Universitat de les Illes Balears. 2h lecture, January 31 2024.</li>
